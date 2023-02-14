@@ -1,6 +1,6 @@
 # y
 
-_This project was generated with [create-instantsearch-app](https://github.com/algolia/instantsearch.js/tree/master/packages/create-instantsearch-app) by [Algolia](https://algolia.com)._
+_This project was generated for demostrate Algolia search using typesense with [create-instantsearch-app](https://github.com/algolia/instantsearch.js/tree/master/packages/create-instantsearch-app) by [Pavandeep](https://github.com/windpavandeep)._
 
 ## Get started
 
